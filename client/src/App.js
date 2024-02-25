@@ -7,7 +7,7 @@ import * as Yup from "yup"; // Import Yup for form validation
 
 import videoBg from "../src/assests/videoBg.mp4";
 import "./App.css";
-
+//app logic
 function App() {
   const [listofPosts, setListOfPosts] = useState([]);
 
